@@ -17,7 +17,7 @@
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone git@github.com:tuusuario/compsha.git
+   git clone
    cd compsha
    ```
 
