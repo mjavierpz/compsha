@@ -79,5 +79,5 @@ Estas dependencias se gestionan automáticamente mediante Cargo.
 
 ## Licencia
 
-Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+Este proyecto está bajo la licencia GPL-2.0. Consulta el archivo `LICENSE` para más detalles.
 
